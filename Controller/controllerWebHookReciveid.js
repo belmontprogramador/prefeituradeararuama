@@ -1,7 +1,7 @@
  
 
 // Defina o token esperado para validar o webhook
-const AUTH_TOKEN = uVhVeUGlv9NlgyfC7NWPSc1Ylx9qk2YWI;
+const AUTH_TOKEN = "uVhVeUGlv9NlgyfC7NWPSc1Ylx9qk2YWI";
 
 // Rota para receber o webhook
 const webHookRecevied = (req,res) =>{    // Pegando o token do cabeçalho
